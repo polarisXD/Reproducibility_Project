@@ -1,3 +1,3 @@
 install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("tidy")
+install.packages("readr")
+install.packages("tidyr")
